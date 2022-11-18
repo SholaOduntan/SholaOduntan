@@ -10,8 +10,6 @@ Want to work with me, have a coffe chat or just say hi?! I would love to hear fr
 
 You can reach me here or on twitter.
 
-*** JS, HTML, CSS, Postgres, MongoDB, React, Node and Express.***
-
 Take your time, just don't waste your time. - Chadwick Boseman.❤️
 
 <!--
