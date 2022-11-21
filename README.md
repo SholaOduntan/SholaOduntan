@@ -1,6 +1,6 @@
 ### Welcome to my world👋🏾,
 
-I'm a fullstack developer at #100devs. Passionate about creating and leaving a tangible, positive mark in the world. 
+I'm a software engineer at #100devs. Passionate about creating and leaving a tangible, positive mark in the world. 
 
 When I'm not working/networking with talented developers, I'm documenting my existence and making my day dream a reality.📸❤️🌴✈️🚢 🥾🏋🏾‍♀️🍇🍝💃🏾
 
